@@ -1,0 +1,45 @@
+.container{
+    margin: 100px;
+}
+
+.card-header{
+    font-size: 30px;
+
+}
+
+.card-header p{
+    margin-bottom: 0px;
+}
+
+.card-body{
+    padding-bottom: 40px;
+}
+
+label {
+    font-weight: bold;
+  }
+
+.notas-mensaje{
+    font-size: 13px;
+    color: rgb(167, 165, 165);
+}
+
+.selector-tarjeta{
+    width: 72%;
+    padding-left: 4px;
+    padding-top: 4px;
+    border-radius: 4px;
+}
+
+.form-check-label{
+    width: 10px;
+    height: 8px;
+}
+
+input[type=radio]
+{
+ 
+  -webkit-transform: scale(0.60); 
+
+
+}
