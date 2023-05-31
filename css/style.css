@@ -4,7 +4,6 @@
 
 .card-header{
     font-size: 30px;
-
 }
 
 .card-header p{
@@ -15,9 +14,9 @@
     padding-bottom: 40px;
 }
 
-label {
+label{
     font-weight: bold;
-  }
+}
 
 .notas-mensaje{
     font-size: 13px;
@@ -36,10 +35,6 @@ label {
     height: 8px;
 }
 
-input[type=radio]
-{
- 
+input[type=radio]{
   -webkit-transform: scale(0.60); 
-
-
 }
